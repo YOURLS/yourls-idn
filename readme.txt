@@ -22,9 +22,9 @@ The constant YOURLS_SITE must be set to your domain with ACE (Punnycode) notatio
 It must not contain any UTF8 or funky character.
 
 For instance, if your YOURLS' URL is:
-      http://héhé.com
+      http://hÃ©hÃ©.com
 You must have:
       define('YOURLS_SITE', 'http://xn--hh-bjab.com');
 	  
 To convert from IDN to ACE (or Punnycode, the one that starts with xn--), you can
-use a tool like http://www.idnstuff.com/ or http://mct.verisign-grs.com/
+use a tool like [this one from VeriSign](https://www.verisign.com/en_GB/channel-resources/domain-registry-products/idn/idn-conversion-tool/index.xhtml)
