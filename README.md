@@ -2,11 +2,14 @@
 ```
 Plugin Name: YOURLS IDN
 Plugin URI:  http://yourls.org/
-Description: Compatibility with Internationalized Domain Names (IDN)
+Description: Host YOURLS on an IDN domain
 Version:     1.0
 Author:      Ozh - http://ozh.org/
 ```
-THIS PLUGIN REQUIRES YOURLS 1.5.1-beta AT LEAST. 
+
+This plugin is to have YOURLS hosted on a IDN domain
+
+THIS PLUGIN REQUIRES YOURLS 1.5.2 to **1.7.9** (version above this don't need this)
 
 ## Installation
 
