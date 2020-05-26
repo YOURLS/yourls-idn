@@ -31,4 +31,4 @@ It must not contain any UTF8 or other non-ASCII characters.
       `define('YOURLS_SITE', 'http://xn--hh-bjab.com');`
 	  
 To convert from IDN to ACE (or Punycode, the one that starts with xn--), you can
-use a tool like [this one from VeriSign](https://www.verisign.com/en_GB/channel-resources/domain-registry-products/idn/idn-conversion-tool/index.xhtml) or [Punnycoder](https://www.punycoder.com/)
+use a tool like [this one from VeriSign](https://www.verisign.com/en_GB/channel-resources/domain-registry-products/idn/idn-conversion-tool/index.xhtml) or [Punycoder](https://www.punycoder.com/)
